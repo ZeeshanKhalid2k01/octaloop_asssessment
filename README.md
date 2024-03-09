@@ -10,9 +10,8 @@ This repository contains scripts and resources for an assessment project.
 
 To set up the free API provided by Gemini (Google), follow these steps:
 
-1. Go to [Gemini](https://gemini.google.com) and sign up for an account.
-2. Obtain the API credentials and documentation for accessing the free API.
-3. Copy the API key to .env
+1. Obtain the API credentials and documentation for accessing the free API, from Google.
+2. Copy the API key to .env
 
 ## Downloading Folders from Google Drive
 
@@ -39,4 +38,4 @@ Extra Files
 mcq_generator.ipynb: This file was previously used for generating MCQs but has been replaced by the free API due to resource constraints.
 
 # Note:
-Make sure to replace placeholders like `[Gemini](https://gemini.google.com)` with actual links or instructions as needed. Also, ensure that the URLs for downloading folders from Google Drive are correct and accessible.
+Make sure to Add 3-folders, which will be downloaded from links, and Add API in .env
