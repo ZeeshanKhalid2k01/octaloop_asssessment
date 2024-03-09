@@ -12,6 +12,7 @@ To set up the free API provided by Gemini (Google), follow these steps:
 
 1. Go to [Gemini](https://gemini.google.com) and sign up for an account.
 2. Obtain the API credentials and documentation for accessing the free API.
+3. Copy the API key to .env
 
 ## Downloading Folders from Google Drive
 
