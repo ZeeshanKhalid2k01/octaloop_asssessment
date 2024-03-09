@@ -21,6 +21,11 @@ Download the following folders from Google Drive (vector-DBs):
 2. [Folder 2](https://drive.google.com/drive/folders/1tEOwvjD992x92iqU7-Z9uwwVprAm7iBg?usp=sharing)
 3. [Folder 3](https://drive.google.com/drive/folders/1w3ARprTaO7Ucm3pTSNsbV9c4eMFtH6My?usp=sharing)
 
+## Extract Downloaded Folders from Zip Files
+1. Extract all the 3 zip files, in the same directory where program files are saved
+2. After Extraction, faiss_sports, faiss_movie, faiss_history will be shown
+3. Do not change their names, as these files are being called from .py files from their names
+
 ## Installing Requirements
 
 Install the required packages by running the following command:
